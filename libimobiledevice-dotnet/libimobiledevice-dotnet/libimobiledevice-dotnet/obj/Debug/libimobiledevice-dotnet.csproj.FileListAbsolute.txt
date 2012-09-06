@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2012\Projects\libimobiledevice-dotnet\libimobiledevice-dotnet\bin\Debug\libimobiledevice-dotnet.dll
+\\psf\home\documents\visual studio 2012\Projects\libimobiledevice-dotnet\libimobiledevice-dotnet\bin\Debug\libimobiledevice-dotnet.pdb
+\\psf\home\documents\visual studio 2012\Projects\libimobiledevice-dotnet\libimobiledevice-dotnet\obj\Debug\libimobiledevice-dotnet.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2012\Projects\libimobiledevice-dotnet\libimobiledevice-dotnet\obj\Debug\libimobiledevice-dotnet.dll
+\\psf\home\documents\visual studio 2012\Projects\libimobiledevice-dotnet\libimobiledevice-dotnet\obj\Debug\libimobiledevice-dotnet.pdb

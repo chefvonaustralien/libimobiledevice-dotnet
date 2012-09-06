@@ -1,0 +1,13 @@
+\\psf\home\documents\visual studio 2012\Projects\idevice-test\idevice-test\bin\Debug\idevice-test.exe.config
+\\psf\home\documents\visual studio 2012\Projects\idevice-test\idevice-test\bin\Debug\idevice-test.exe
+\\psf\home\documents\visual studio 2012\Projects\idevice-test\idevice-test\bin\Debug\idevice-test.pdb
+\\psf\home\documents\visual studio 2012\Projects\idevice-test\idevice-test\obj\Debug\idevice-test.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2012\Projects\idevice-test\idevice-test\obj\Debug\idevice_test.Properties.Resources.resources
+\\psf\home\documents\visual studio 2012\Projects\idevice-test\idevice-test\obj\Debug\idevice-test.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2012\Projects\idevice-test\idevice-test\obj\Debug\idevice-test.exe
+\\psf\home\documents\visual studio 2012\Projects\idevice-test\idevice-test\obj\Debug\idevice-test.pdb
+\\psf\home\documents\visual studio 2012\Projects\idevice-test\idevice-test\bin\Debug\libimobiledevice-dotnet.dll
+\\psf\home\documents\visual studio 2012\Projects\idevice-test\idevice-test\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+\\psf\home\documents\visual studio 2012\Projects\idevice-test\idevice-test\bin\Debug\libimobiledevice-dotnet.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\idevice-test\idevice-test\bin\Debug\LibCurlNet.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\idevice-test\idevice-test\obj\Debug\idevice_test.Main.resources

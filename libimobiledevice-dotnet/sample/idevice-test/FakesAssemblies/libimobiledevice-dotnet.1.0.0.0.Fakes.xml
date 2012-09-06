@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>libimobiledevice-dotnet.1.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:libimobiledevice_dotnet.Fakes.Shimdevice">
+            <summary>Shim type of libimobiledevice_dotnet.device</summary>
+        </member>
+        <member name="M:libimobiledevice_dotnet.Fakes.Shimdevice.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:libimobiledevice_dotnet.Fakes.Shimdevice.#ctor(libimobiledevice_dotnet.device)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:libimobiledevice_dotnet.Fakes.Shimdevice.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:libimobiledevice_dotnet.Fakes.Shimdevice.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Shimdevice.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Shimdevice.ConstructorString">
+            <summary>Sets the shim of device.device(String uuid)</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Shimdevice.getDeviceName">
+            <summary>Sets the shim of device.getDeviceName()</summary>
+        </member>
+        <member name="T:libimobiledevice_dotnet.Fakes.Shimdevice.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Shimdevice.AllInstances.getDeviceName">
+            <summary>Sets the shim of device.getDeviceName()</summary>
+        </member>
+        <member name="T:libimobiledevice_dotnet.Fakes.Shimdevice_searcher">
+            <summary>Shim type of libimobiledevice_dotnet.device_searcher</summary>
+        </member>
+        <member name="M:libimobiledevice_dotnet.Fakes.Shimdevice_searcher.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:libimobiledevice_dotnet.Fakes.Shimdevice_searcher.#ctor(libimobiledevice_dotnet.device_searcher)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:libimobiledevice_dotnet.Fakes.Shimdevice_searcher.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:libimobiledevice_dotnet.Fakes.Shimdevice_searcher.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Shimdevice_searcher.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Shimdevice_searcher.Constructor">
+            <summary>Sets the shim of device_searcher.device_searcher()</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Shimdevice_searcher.get_device_list">
+            <summary>Sets the shim of device_searcher.get_device_list()</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Shimdevice_searcher.refresh">
+            <summary>Sets the shim of device_searcher.refresh()</summary>
+        </member>
+        <member name="T:libimobiledevice_dotnet.Fakes.Shimdevice_searcher.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Shimdevice_searcher.AllInstances.get_device_list">
+            <summary>Sets the shim of device_searcher.get_device_list()</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Shimdevice_searcher.AllInstances.refresh">
+            <summary>Sets the shim of device_searcher.refresh()</summary>
+        </member>
+        <member name="T:libimobiledevice_dotnet.Fakes.Stubdevice">
+            <summary>Stub type of libimobiledevice_dotnet.device</summary>
+        </member>
+        <member name="M:libimobiledevice_dotnet.Fakes.Stubdevice.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:libimobiledevice_dotnet.Fakes.Stubdevice.InitializeStub">
+            <summary>Initializes a new instance of type Stubdevice</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Stubdevice.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Stubdevice.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Stubdevice.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:libimobiledevice_dotnet.Fakes.Stubdevice_searcher">
+            <summary>Stub type of libimobiledevice_dotnet.device_searcher</summary>
+        </member>
+        <member name="M:libimobiledevice_dotnet.Fakes.Stubdevice_searcher.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:libimobiledevice_dotnet.Fakes.Stubdevice_searcher.InitializeStub">
+            <summary>Initializes a new instance of type Stubdevice_searcher</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Stubdevice_searcher.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Stubdevice_searcher.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:libimobiledevice_dotnet.Fakes.Stubdevice_searcher.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

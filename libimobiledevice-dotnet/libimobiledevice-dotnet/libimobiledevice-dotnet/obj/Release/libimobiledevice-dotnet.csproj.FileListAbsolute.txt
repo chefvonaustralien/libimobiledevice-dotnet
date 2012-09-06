@@ -1,0 +1,4 @@
+\\psf\home\documents\visual studio 2012\Projects\libimobiledevice-dotnet\libimobiledevice-dotnet\bin\Release\libimobiledevice-dotnet.dll
+\\psf\home\documents\visual studio 2012\Projects\libimobiledevice-dotnet\libimobiledevice-dotnet\bin\Release\libimobiledevice-dotnet.pdb
+\\psf\home\documents\visual studio 2012\Projects\libimobiledevice-dotnet\libimobiledevice-dotnet\obj\Release\libimobiledevice-dotnet.dll
+\\psf\home\documents\visual studio 2012\Projects\libimobiledevice-dotnet\libimobiledevice-dotnet\obj\Release\libimobiledevice-dotnet.pdb
