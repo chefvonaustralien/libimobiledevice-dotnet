@@ -4,9 +4,11 @@ libimobiledevice-dotnet
 --
 <h3>REQUIREMENTS:</h3>
 
--> .NET Framework 4.5<br>
+-> .NET Framework 4.0+<br>
 -> libimobiledevice [http://www.libimobiledevice.org]<br>
--> libcurl.net (included)<br>
+
+<h4>Optional:</h4>
+-> libcurl.net (for device activation) [http://curl.haxx.se/libcurl/dotnet/]<br>
 
 --
 <h3>IMPORTANT:</h3>
