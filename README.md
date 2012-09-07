@@ -5,7 +5,7 @@ libimobiledevice-dotnet
 <h3>REQUIREMENTS:</h3>
 
 -> .NET Framework 4.5<br>
--> libimobiledevice<br>
+-> libimobiledevice [http://www.libimobiledevice.org]<br>
 -> libcurl.net (included)<br>
 
 --
